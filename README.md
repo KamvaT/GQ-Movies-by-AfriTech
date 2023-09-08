@@ -2,7 +2,7 @@
 
  Motto: Visions are realized under multiple eyes 
  
- TEAM MEMBERS
+ # TEAM MEMBERS
  
  Team Member 1: Kamva Twala, the home town is Gqeberha, software engineer, coding is my hobby, computer and gym emojis.
  
