@@ -1,6 +1,9 @@
 # GQ-Movies-by-AfriTech
+
  Motto: Visions are realized under multiple eyes 
+ 
  TEAM MEMBERS
+ 
  Team Member 1: Kamva Twala, the home town is Gqeberha, software engineer, coding is my hobby, computer and gym emojis.
  Team Member 2: Mava Dyantyi, home town is Ngcobo, information architect, listening to music, music note and computer emojis.
  Team Member 3: Gcinikhaya Mabe, the home town is Botshabelo, game programmer, reading, book and music note emojis.
